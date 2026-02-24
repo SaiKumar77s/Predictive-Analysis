@@ -103,30 +103,8 @@ predictive-analysis-ml/
 
 
 
-## ⚙️ Installation
 
-
-pip install pandas numpy matplotlib seaborn scikit-learn
 ```
-
----
-
-## 🚀 Complete Implementation Code
-
-python
-# ==========================================
-# 1. Import Required Libraries
-# ==========================================
-
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-
-
-
-
-
 
 ## 📊 Key Insights
 
