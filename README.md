@@ -85,7 +85,7 @@ Evaluation metrics used:
 
 ## 📁 Project Structure
 
-``
+``'
 predictive-analysis-ml/
 │
 ├── data/
@@ -101,11 +101,11 @@ predictive-analysis-ml/
 └── README.md
 ```
 
----
+
 
 ## ⚙️ Installation
 
-```bash
+
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
@@ -124,7 +124,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 
-```
+
 
 
 
@@ -135,7 +135,7 @@ import seaborn as sns
 - Order amount influences order status  
 - Sales channel plays a significant role in delivery success  
 
----
+
 
 ## ✅ Final Conclusion
 
@@ -157,5 +157,5 @@ This project demonstrates real-world application of Machine Learning in Retail A
 - Deployment using Streamlit  
 - Add Time Series Sales Forecasting  
 
----
+
 
